@@ -30,7 +30,7 @@
 		"outerColor": [20,20,107],
 		"innerColor": [40,40,215],
 		"uniqueName": "Великая армия",
-		"unique": "+[20]% Strength <vs [Civilization]>",
+		"uniques": "+[20]% Strength <vs [Civilization]>", "+[20]% Strenght after [Military] unit die",
 		"cities": ["Оксква","Окейград","Окорда","Оккей","Окейлэнд","Океры","Океи","Великий Окоград","Малый Окоград",
 			"Окок","Окла","Мн-Ок","Ок","Вокыр","Буокрград","Окленск"]
 	}
