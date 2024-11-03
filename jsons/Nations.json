@@ -1,38 +1,37 @@
 [
 	{
-		"name": "Ok Republic",
-		"leaderName": "Unk Okowicz",
-		"adjective": ["ok"],
+		"name": "Оки",
+		"leaderName": "Унк Окович",
+		"adjective": ["оковский"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Ok Republic",
-		"startIntroPart2": "Оккей",
+		"startIntroPart1": "Добро пожаловать в Республику Ок, Унк Окович, Великую нацию с огромной историей, являющейся самой огромной страной во все времена.",
+		"startIntroPart2": "Мы – Великое Оковское Государство, ваша цель, Унк Окович, привести нас к победе любой ценой!",
 		
-		"declaringWar": "Zrya",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Нашим народом было решено лишь одно – Вам конец.",
+		"attacked": "Как вы посмели!? Вы только приблизили свой конец!",
+		"defeated": "Мы – Великая нация Оков, как мы могли проиграть? Мы ещё встретимся...",
+		"introduction": "Здравствуйте. Я – Унк Окович, глава Великой Нации Оков.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Здравия желаю.",
+		"neutralLetsHearIt": ["Что вам?","Вы что-то хотели?","Давайте приступим."],
+		"neutralNo": ["Мы откажемся от данного предложения.","Нет.", "Спасибо, но мы откажемся."],
+		"neutralYes": ["Хорошее предложение.","Мы принимаем ваше предложение.","Неплохо, мы согласны."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Чего вы от нас хотите?",
+		"hateLetsHearIt": ["И что же вам надо?","Чего вам?"],
+		"hateNo": ["Заткнитесь.","Нет, мы не согласны. Проваливайте.","Нет."],
+		"hateYes": ["Это первое и последнее предложение, на которое я согласен.","Неплохо, в этот раз мы согласны.","Ладно."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Ну что-же, наконец между нами наступил мир.",
+		"tradeRequest": "У нас есть к вам предложение.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [20,20,107],
+		"innerColor": [40,40,215],
+		"uniqueName": "Великая армия",
+		"unique": "+[20]% Strength <vs [Civilization]>",
+		"cities": ["Оксква","Окейград","Окорда","Оккей","Окейлэнд","Океры","Океи","Великий Окоград","Малый Окоград",
+			"Окок","Окла","Мн-Ок","Ок","Вокыр","Буокрград","Окленск"]
 	}
 ]
