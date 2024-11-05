@@ -35,8 +35,11 @@
 			"Окок","Окла","Мн-Ок","Ок","Вокыр","Буокрград","Окленск"]
 	},
 	{
-		"name": "Поны"
-		"leaderName": "Пурпур Понов"
-		"adjective": "поновский"
-		"starBias": "
+		"name": "Поны",
+		"leaderName": "Няшпур Понов",
+		"adjective": ["поновский"],
+		"starBias": ["Plains"],
+		"preferredVictoryType": "Domination"
+
+		"startIntroPart1": "Здравствуйте, Пурпур Понов
 ]
