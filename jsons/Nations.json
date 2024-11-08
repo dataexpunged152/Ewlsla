@@ -29,9 +29,9 @@
 
 		"outerColor": [107,20,20],
 		"innerColor": [215,40,40],
-		"uniqueName": "Великая армия",
-		"uniques": ["[+2] Movement <for [Water] units>"],
-		"cities": ["Оксква",,"Великий Окоград","Окейгород","Малый Окоград","Окорда","Океево","Оковка","Океи","Оккей",
+		"uniqueName": "Гроза лесов",
+		"uniques": ["[+10]% Strength <when fighting in [Forest] tiles>", "[+5]% Strenght <when fighting in [Jungle] tiles>"],
+		"cities": ["Оксква","Великий Окоград","Окейгород","Малый Окоград","Окорда","Океево","Оковка","Океи","Оккей",
 			"Окок","Окла","Мн-Ок","Ок","Вокыр","Буокрград","Окленск"]
 	},
 	{
@@ -62,4 +62,8 @@
 		"uniques": ["[+10]% Strength <when fighting in [Grassland] tiles>", "[+10]% Strength <when fighting in [Plains] tiles>", "[-1]% Strength <when fighting in [Forest] tiles>", "[-1]% Strength <when fighting in [Jungle] tiles>"],
 		"cities": ["Понов","Поноленд","Поненд","Понял-Ленд","Понялис","Понвон","Поняло","Понпоняллен"]
 	},
+	{
+		"name": "Лады"
+		"leaderName": "Твенти Ванович"
+		"
 ]
