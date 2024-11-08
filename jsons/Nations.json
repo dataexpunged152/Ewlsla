@@ -58,8 +58,8 @@
 
 		"outerColor": [60, 10, 10],
 		"innerColor": [120, 20, 20],
-		"uniqueName": "Равнинно-ориентированная армия",
-		"uniques": ["[+2] Movement <for [Water] units>"],
-		"cities": ["Нью-Пон","Пон-сити","Олд-Пон","Понял-Ленд","Понялис","Понвон","Поняло","Понено-сити"]
+		"uniqueName": "Царство равнин",
+		"uniques": ["[+10]% Strength <when fighting in [Grassland] tiles>", "[+10]% Strength <when fighting in [Plains] tiles>", "[-1]% Strength <when fighting in [Forest] tiles>", "[-1]% Strength <when fighting in [Jungle] tiles>"],
+		"cities": ["Понов","Поноленд","Поненд","Понял-Ленд","Понялис","Понвон","Поняло","Понпоняллен"]
 	},
 ]
