@@ -29,7 +29,7 @@
 
 		"outerColor": [107,20,20],
 		"innerColor": [215,40,40],
-		"uniqueName": "Царство севера",
+		"uniqueName": "Край холодов",
 		"uniques": ["[+10]% Strength <when fighting in [Tundra] tiles>", "[+5]% Strenght <when fighting in [Snow] tiles>"],
 		"cities": ["Оксква","Великий Окоград","Окейгород","Малый Окоград","Окорда","Океево","Оковка","Океи","Оккей",
 			"Окок","Окла","Мн-Ок","Ок","Вокыр","Буокрград","Окленск"]
@@ -58,7 +58,7 @@
 
 		"outerColor": [60, 10, 10],
 		"innerColor": [120, 20, 20],
-		"uniqueName": "Царство равнин",
+		"uniqueName": "Империя равнин",
 		"uniques": ["[+10]% Strength <when fighting in [Grassland] tiles>", "[+10]% Strength <when fighting in [Plains] tiles>", "[-1]% Strength <when fighting in [Forest] tiles>", "[-1]% Strength <when fighting in [Jungle] tiles>"],
 		"cities": ["Понов","Поноленд","Поненд","Понял-Ленд","Понялис","Понвон","Поняло","Понпоняллен"]
 	},
@@ -86,8 +86,8 @@
 
 		"innerColor": [20, 50, 20]
 		"outerColor": [40, 100, 40]
-		"uniqueName": "Союз с Жестью"
-		"uniques": [""]
+		"uniqueName": "Нераскрытый потенциал"
+		"uniques": ["[+10]% Strength <when fighting>"]
 		"cities": ["Ладнен","Ладинен","Ладинеск","Ладыленд","Ладноэнд","Ладнонен","Ладенон","Ладин"]
 	}
 ]
