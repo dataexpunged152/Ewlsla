@@ -87,7 +87,7 @@
 		"innerColor": [20, 50, 20]
 		"outerColor": [40, 100, 40]
 		"uniqueName": "Нераскрытый потенциал"
-		"uniques": ["[+10]% Strength <when fighting>"]
+		"uniques": ["[+10]% Strength <when attacking>"]
 		"cities": ["Ладнен","Ладинен","Ладинеск","Ладыленд","Ладноэнд","Ладнонен","Ладенон","Ладин"]
 	}
 ]
