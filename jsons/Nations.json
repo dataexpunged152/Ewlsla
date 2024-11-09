@@ -30,7 +30,7 @@
 		"outerColor": [107,20,20],
 		"innerColor": [215,40,40],
 		"uniqueName": "Край холодов",
-		"uniques": ["[+10]% Strength <when fighting in [Tundra] tiles>", "[+5]% Strenght <when fighting in [Snow] tiles>"],
+		"uniques": ["[+10]% Strength <when fighting in [Tundra] tiles>", "[+5]% Strength <when fighting in [Snow] tiles>"],
 		"cities": ["Оксква","Великий Окоград","Окейгород","Малый Окоград","Окорда","Океево","Оковка","Океи","Оккей",
 			"Окок","Окла","Мн-Ок","Ок","Вокыр","Буокрград","Окленск"]
 	},
