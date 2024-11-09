@@ -65,8 +65,8 @@
 	{
 		"name": "Лады"
 		"leaderName": "Твенти Ванович"
-		"adjective": "ладский"
-		"startBias": ["River","Grassland"]
+		"adjective": ["ладский"]
+		"startBias": ["Grassland"]
 		"prefferedVictoryType": "Diplomatic"
 
 		"startIntroPart1": "Здравствуйте, вы – Глава государства Ладского, государства, что пока не проявило себя, но имеет большой нераскрытый потенциал, и именно вы должны будете его раскрыть!"
