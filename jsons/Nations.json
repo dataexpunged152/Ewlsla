@@ -66,9 +66,9 @@
 		"name": "Лады"
 		"leaderName": "Твенти Ванович"
 		"adjective": ["ладский"]
-		"startBias": ["Grassland"]
-		"prefferedVictoryType": "Diplomatic"
-
+		"startBias": [ {Grassland} {River} ]
+		"prefferedVictoryType": "Cultural"
+		
 		"startIntroPart1": "Здравствуйте, вы – Глава государства Ладского, государства, что пока не проявило себя, но имеет большой нераскрытый потенциал, и именно вы должны будете его раскрыть!"
 		"startIntroPart2": "Мы верим, что вы привидёте нас к победе и раскроете весь потенциал нашей страны, Твенти Ванович."
 
@@ -89,5 +89,11 @@
 		"uniqueName": "Нераскрытый потенциал"
 		"uniques": ["[+10]% Strength <when attacking>"]
 		"cities": ["Ладнен","Ладинен","Ладинеск","Ладыленд","Ладноэнд","Ладнонен","Ладенон","Ладин"]
-	}
+	},
+	{
+		"name": "Жесть"
+		"leaderName": "Женя Жестинов"
+		"adjective": ["жесткий"]
+		"startBias": ["Coast"]
+		"prefferedVictoryType": "Diplomatic"
 ]
